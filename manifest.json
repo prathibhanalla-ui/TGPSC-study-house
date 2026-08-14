@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TGPSC Study House",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "TGPSC Study House",
+  "start_url": "/",
+  "theme_color": "#4f46e5",
+  "description": "TGPSC Study House – TGPSC exam preparation notes and study materials"
+}
